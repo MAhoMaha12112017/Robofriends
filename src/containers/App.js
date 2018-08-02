@@ -44,7 +44,7 @@ class App extends Component {
             <CardList robots={filteredRobots}/>
           </Scroll>
         </div>
-      )
+      );
   }
 }
 
